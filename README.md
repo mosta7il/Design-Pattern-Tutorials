@@ -8,6 +8,7 @@ In this repository, you will find tutorials on the following design patterns:
 - Creational Patterns
 - Structural Patterns
 - Behavioral Patterns
+
 Each tutorial includes a detailed explanation of the pattern, code samples, and real-world examples to help you understand the concept and how to apply it.
 
 ## Table of Contents
