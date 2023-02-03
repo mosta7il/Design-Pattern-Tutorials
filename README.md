@@ -12,7 +12,7 @@ Each tutorial includes a detailed explanation of the pattern, code samples, and 
 
 ## Table of Contents
 - [Singleton Pattern](./Singleton)
-- [Factory Method Pattern](./FactoryMethod)
+- [Factory Method Pattern](./FactoryMethod.md)
 - [Abstract Factory Pattern](./AbstractFactory)
 - [Builder Pattern](./Builder)
 - [Adapter Pattern](./Adapter)
