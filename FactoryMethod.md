@@ -121,7 +121,7 @@ class LinkedInNotificationFactory extends NotificationFactory {
 
 
 ## Structure
-![Factory Method Pattern class diagream](https://www.researchgate.net/profile/Awny-Alnusair/publication/262572084/figure/fig6/AS:507160770682880@1497927958062/Structure-of-the-Factory-Method-design-pattern-in-UML.png)
+[Factory Method Pattern class diagream](https://www.researchgate.net/profile/Awny-Alnusair/publication/262572084/figure/fig6/AS:507160770682880@1497927958062/Structure-of-the-Factory-Method-design-pattern-in-UML.png)
 
 - **Creator abstract class**: An abstract class that includes a factory method for creating objects of a certain type. The factory method returns an object of the type specified by a sub-class.
 
