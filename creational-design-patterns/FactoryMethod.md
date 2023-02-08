@@ -434,3 +434,7 @@ responsibility of the **creator**. Usually, the **creator** class already has so
 ## Drawbacks
 - The code may become more complicated since you need to introduce a lot of new subclasses to implement the pattern.
 
+
+## Refrences
+- [Dive into Design Patterns Book](https://refactoring.guru/design-patterns/book)
+- [Pluralsight course](https://app.pluralsight.com/library/courses/design-patterns-java-creational)
