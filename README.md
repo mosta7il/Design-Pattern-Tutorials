@@ -12,15 +12,22 @@ In this repository, you will find tutorials on the following design patterns:
 Each tutorial includes a detailed explanation of the pattern, code samples, and real-world examples to help you understand the concept and how to apply it.
 
 ## Table of Contents
-- [Singleton Pattern](./Singleton)
-- [Factory Method Pattern](./FactoryMethod.md)
-- [Abstract Factory Pattern](./AbstractFactory)
-- [Builder Pattern](./Builder)
-- [Adapter Pattern](./Adapter)
-- [Facade Pattern](./Facade)
-- [Decorator Pattern](./Decorator)
-- [Observer Pattern](./Observer)
-- [Strategy Pattern](./Strategy)
+- Creational Patterns
+  - [Factory Method Pattern](./FactoryMethod.md)
+  - [Abstract Factory Pattern -- SOON](#)
+  - [ProtoType Pattern -- SOON](#)
+- Strucural Pattern
+  - [Adapter Pattern -- SOON](#)
+  - [Bridge Pattern -- SOON](#)
+  - [Composite Pattern -- SOON](#)
+  - [Decorator Pattern -- SOON](#)
+  - [Proxy Pattern -- SOON](#)
+- Behavioral Pattern
+  - [CoR Pattern -- SOON](#)
+  - [Command Pattern -- SOON](#)
+  - [Observer Pattern -- SOON](#)
+  - [State Pattern -- SOON](#)
+  - [Strategy Pattern -- SOON](#)
 
 ## Tutorials
 Each tutorial includes a detailed explanation of the pattern, code samples, and real-world examples to help you understand the concept and how to apply it.
