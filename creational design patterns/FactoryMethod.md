@@ -1,5 +1,7 @@
 # Factory Method Pattern
 
+- _Note: Code snippets in this tutorial are not complete._
+
 ## Overview
 - The Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created. The purpose of this pattern is to allow a class to delegate object creation to its subclasses, which allows for greater flexibility and easier maintenance.
 - The Factory Method solves the problem of hard-coding the creation of objects in a class. By delegating object creation to subclasses, the Factory Method makes it easier to change the objects that are created, without having to change the code in the main class.
@@ -264,7 +266,7 @@ responsibility of the **creator**. Usually, the **creator** class already has so
     public class Library {
         public static class ComponentFactory {
             public static Component createComponent() {
-            return new DefaultComponent();
+                return new DefaultComponent();
             }
         }
     
@@ -403,10 +405,10 @@ responsibility of the **creator**. Usually, the **creator** class already has so
 
         public Connection getConnection(Class<? extends Connection> clazz) {
             for (Connection connection : availableConnections) {
-            if (connection.getClass() == clazz) {
-                availableConnections.remove(connection);
-                return connection;
-            }
+                if (connection.getClass() == clazz) {
+                    availableConnections.remove(connection);
+                    return connection;
+                }
             }
             try {
             Connection connection = clazz.newInstance();
