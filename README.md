@@ -41,5 +41,3 @@ If you find any errors or have suggestions for improvement, please feel free to 
 ## License
 The content of this repository is licensed under the MIT License. You can use the code and tutorials for any purpose, as long as you include the license in your project.
 
-## Contact
-For questions or feedback, please contact the repository maintainer at [email protected] or on Twitter at [@username](https://twitter.com/username).
