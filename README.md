@@ -14,7 +14,7 @@ Each tutorial includes a detailed explanation of the pattern, code samples, and 
 ## Table of Contents
 - Creational Patterns
   - [Factory Method Pattern](./creational-design-patterns/FactoryMethod.md)
-  - [Abstract Factory Pattern -- SOON](#)
+  - [Abstract Factory Pattern](./creational-design-patterns/AbstractFactory.md)
   - [ProtoType Pattern -- SOON](#)
 - Strucural Pattern
   - [Adapter Pattern -- SOON](#)
